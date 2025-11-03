@@ -1,5 +1,5 @@
 # 🕹️ Assemblynoid
-
+![Gameplay Screenshot](Screenshot%202025-11-02%20184959.png)
 
 A classic **Breakout-style game** written entirely in **ARM64 Assembly**, designed to run on **Android devices** using **Termux** and the GNU assembler (`as`).
 
@@ -58,7 +58,7 @@ Run the game:
 
 ## 📷 Screenshots
 ![Assemblynoid Title](Screenshot%202025-11-02%20184737.png)
-![Gameplay Screenshot](Screenshot%202025-11-02%20184959.png)
+
 
 ---
 
